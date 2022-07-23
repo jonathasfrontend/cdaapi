@@ -8,7 +8,7 @@ const conteconosco = require('./conteprs.json');
 app.use(express.json());
 app.use(cors());
 
-app.get("/apicasadeadoracaoiniciosobre", function(req, res) {
+app.get("/inicioendsobre", function(req, res) {
   res.json(iniciosobre);
 });
 app.get("/projetos", function(req, res) {
