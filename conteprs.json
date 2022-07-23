@@ -1,0 +1,42 @@
+[
+    {
+        "img_url":"url",
+        "nome":"Pr Nei Panucci",
+        "type":"Pr Sênior."
+    },
+    {
+        "img_url":"url",
+        "nome":"Pra Bianca",
+        "type":"Pra Sênior."
+    },
+    {
+        "img_url":"url",
+        "nome":"Pr João",
+        "type":"Pr Auxiliar."
+    },
+    {
+        "img_url":"url",
+        "nome":"Pra Zely",
+        "type":"Pra Auxiliar."
+    },
+    {
+        "img_url":"url",
+        "nome":"Pr Marcelo" ,
+        "type":"Pr Auxiliar."
+    },
+    {
+        "img_url":"url",
+        "nome":"Pra Valdirene",
+        "type":"Pra Auxiliar."
+    },
+    {
+        "img_url":"url",
+        "nome":"Pr Rafael Lopes" ,
+        "type":"Pr Auxiliar."
+    },
+    {
+        "img_url":"url",
+        "nome":"Pra Josiane Lopes",
+        "type":"Pra Auxiliar."
+    }
+]

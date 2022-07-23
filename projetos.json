@@ -1,0 +1,37 @@
+[
+    {
+        "img":"https://bitbucket.org/Jonathas-front-end/siteworshiphome/src/main/assets/img/svgs/home.svg",
+        "title": "Projeto CASA",
+        "sobre": "Conheça o projeto CASA Centro Atendimento Social Assistencial um projeto que pode mudar sua vida."
+    },
+    {
+        "img":"url",
+        "title": "IDG Imersion Discipleship Group",
+        "sobre": "Um tempo falando da palavra do senhor totalmente em Ingles."
+    },
+    {
+        "img":"url",
+        "title": "Escola de fundamentos",
+        "sobre": "Qual sua perspectiva para o futuro?"
+    },
+    {
+        "img":"url",
+        "title": "Confraria",
+        "sobre": "Discipulado de homens, onde através dos princípios regidos pela palavra de Deus conversamos sobre hombridade. A função sacerdotal do homem, levando-o a entender seu papel em casa, na família e sociedade."
+    },
+    {
+        "img":"url",
+        "title": "Mulheres em reforma",
+        "sobre": "Discipulado de Mulheres Trazer a coniencia das mulheres sua afiliação no reino e que somos filhas amadas do Pai, restaurar seus ministérios trazer e sua conciencia que uma complementa a outra e juntas somo mais forte."
+    },
+    {
+        "img":"url",
+        "title": "Adoração kids",
+        "sobre": "Ensinamos as crianças que o louvor é uma oferta a Deus, e ele recebe como expressão do seu amor por Ele. As crianças são capazes de adorar quando entendem o grande valor da sua adoração a Deus. Salmos 8: 2"
+    },
+    {
+        "img":"url",
+        "title": "Geração cross",
+        "sobre": "Porque a palavra da cruz é loucura para os que perecem; mas para nós, que somos salvos, é o poder de Deus. 1 Coríntios 1:18"
+    }
+]

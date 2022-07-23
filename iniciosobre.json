@@ -1,0 +1,51 @@
+[
+    {
+        "inicio":{
+            "logo": "Casa de Adoração",
+            "logo_ingles_1": "Worship",
+            "logo_ingles_2": "Home",
+            "logo_1": "Casa de",
+            "logo_2": "Adoração"
+        },
+
+        "sobre":{
+            "title": "Nós Somos Casa de Adoração",
+            "text": "Depois de um direcionamento da parte de Deus, em março de 2018 começou a reunião de um grupo de famílias no salão da residência onde mora o Pastor Nei Panucci e sua esposa Bianca Ruppel. Com uma média de 10 a 15 pessoas nos cultos que contava com apenas uma caixa de som, um Cajon (o primeiro item adquirido da igreja) e algumas cadeiras de plástico emprestadas fazíamos nossos cultos com a mesma excelência com a qual realizamos hoje. <br><br> Foi um tempo onde aprendemos a confiar inteiramente em Deus a respeito do qual supriu de uma maneira miraculosa os recursos que necessitávamos. Vivemos milagres, Começamos então a comprar algumas coisas necessárias como som, cadeiras, Datashow entre outras coisas que vinham em nossas mãos de uma maneira sobrenatural. <br><br> Deus começou a dar o crescimento em nossa comunidade e fomos avançando. Sempre investindo em pessoas, treinamento de líderes e conferências de crescimento espiritual. Depois de um ano nesse salão, o espaço começou a ficar pequeno, e nos desafiamos a dar mais um passo de fé fazendo a locação do barracão o qual estamos hoje. <br><br> Passo de fé pois o valor estava bem acima daquilo que pensávamos que conseguiríamos. Mas Deus depois de todos esses anos sempre nos sustentou. Hoje (2022) com uma média de frequência de culto de 90 pessoas, podemos ver o cuidado e o carinho de Deus com nossa comunidade,<br><br><strong>Obrigado Jesus! Amamos você e sua obra! Pr Nei Panucci.</strong>"
+        },
+        "contato":[
+            {
+                "tema": "Contato",
+                "sobre":"Entre em Contato contate-nos entre em nossas rede sociais, conhessa nossas programações venha fazer parte dessa familia, no endereço na rua Siqueira Campos Nº2460 Ponta Grossa Paraná."
+            },
+            {
+                "links":[
+                    {
+                        "img":"url",
+                        "title": "Email",
+                        "url": "https://neipanucci_pr@casadeadoracao.net.br"
+                    },
+                    {
+                        "img":"url",
+                        "title": "Facebook",
+                        "url": "https://www.facebook.com/worshiphome18"
+                    },
+                    {
+                        "img":"url",
+                        "title": "Instagram",
+                        "url": "https://www.instagram.com/casadeadoracaoworship"
+                    },
+                    {
+                        "img":"url",
+                        "title": "Whatsapp",
+                        "url": "https://api.whatsapp.com/send?phone=5542999544534"
+                    },
+                    {
+                        "img":"url",
+                        "title": "Youtube",
+                        "url": "https://www.youtube.com/channel/UCM967jJHfCQJU0X9DS0oBwA"
+                    }
+                ]
+            }
+        ]
+    }
+]
