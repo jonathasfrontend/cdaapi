@@ -4,6 +4,7 @@ const app = express();
 const projetos = require('./projetos.json');
 const iniciosobre = require('./iniciosobre.json');
 const conteconosco = require('./conteprs.json');
+const linkscontato = require('./linkscontato.json');
 
 app.use(express.json());
 app.use(cors());
@@ -16,6 +17,9 @@ app.get("/projetos", function(req, res) {
 })
 app.get("/conteconosco", function(req, res) {
   res.json(conteconosco);
+})
+app.get("/linkscontato", function(req, res) {
+  res.json(linkscontato);
 })
 
 app.listen(process.env.PORT || 3000, function(){
