@@ -1,41 +1,41 @@
 [
     {
-        "img_url":"url",
+        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/nei.png",
         "nome":"Pr Nei Panucci",
         "type":"Pr Sênior."
     },
     {
-        "img_url":"url",
+        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/bia.jpg",
         "nome":"Pra Bianca",
         "type":"Pra Sênior."
     },
     {
-        "img_url":"url",
+        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/joao.jpeg",
         "nome":"Pr João",
         "type":"Pr Auxiliar."
     },
     {
-        "img_url":"url",
+        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/zely.jpeg",
         "nome":"Pra Zely",
         "type":"Pra Auxiliar."
     },
     {
-        "img_url":"url",
+        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/marcelo.png",
         "nome":"Pr Marcelo" ,
         "type":"Pr Auxiliar."
     },
     {
-        "img_url":"url",
+        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/val.jpeg",
         "nome":"Pra Valdirene",
         "type":"Pra Auxiliar."
     },
     {
-        "img_url":"url",
+        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/rafa.png",
         "nome":"Pr Rafael Lopes" ,
         "type":"Pr Auxiliar."
     },
     {
-        "img_url":"url",
+        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/josiane2.jpeg",
         "nome":"Pra Josiane Lopes",
         "type":"Pra Auxiliar."
     }
