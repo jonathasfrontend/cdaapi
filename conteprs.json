@@ -10,32 +10,32 @@
         "type":"Pra Sênior."
     },
     {
-        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/joao.jpeg",
+        "img_url":"../public/img/new/joao.jpeg",
         "nome":"Pr João",
         "type":"Pr Auxiliar."
     },
     {
-        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/zely.jpeg",
+        "img_url":"../public/img/new/zely.jpeg",
         "nome":"Pra Zely",
         "type":"Pra Auxiliar."
     },
     {
-        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/marcelo.png",
+        "img_url":"../public/img/new/marcelo.png",
         "nome":"Pr Marcelo" ,
         "type":"Pr Auxiliar."
     },
     {
-        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/val.jpeg",
+        "img_url":"../public/img/new/val.jpeg",
         "nome":"Pra Valdirene",
         "type":"Pra Auxiliar."
     },
     {
-        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/rafa.png",
+        "img_url":"../public/img/new/rafa.png",
         "nome":"Pr Rafael Lopes" ,
         "type":"Pr Auxiliar."
     },
     {
-        "img_url":"https://raw.githubusercontent.com/jonathasfrontend/imgcda/main/jpgpng/josiane2.jpeg",
+        "img_url":"../public/img/new/josiane2.jpeg",
         "nome":"Pra Josiane Lopes",
         "type":"Pra Auxiliar."
     }
