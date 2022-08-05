@@ -1,26 +1,26 @@
 [
     {
-        "img":"",
+        "img":"../public/img/svgs/mail.svg",
         "title": "Email",
         "url": "https://neipanucci_pr@casadeadoracao.net.br"
     },
     {
-        "img":"",
+        "img":"../public/img/svgs/facebook.svg",
         "title": "Facebook",
         "url": "https://www.facebook.com/worshiphome18"
     },
     {
-        "img":"",
+        "img":"../public/img/svgs/instagram.svg",
         "title": "Instagram",
         "url": "https://www.instagram.com/casadeadoracaoworship"
     },
     {
-        "img":"",
+        "img":"../public/img/svgs/whatsapp.svg",
         "title": "Whatsapp",
         "url": "https://api.whatsapp.com/send?phone=5542999544534"
     },
     {
-        "img":"",
+        "img":"../public/img/svgs/youtube.svg",
         "title": "Youtube",
         "url": "https://www.youtube.com/channel/UCM967jJHfCQJU0X9DS0oBwA"
     }
