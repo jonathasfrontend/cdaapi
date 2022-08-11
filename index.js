@@ -1,11 +1,11 @@
 const express = require('express');
 const cors = require('cors');
 const app = express();
-const projetos = require('./projetos.json');
-const iniciosobre = require('./iniciosobre.json');
-const conteconosco = require('./conteprs.json');
-const linkscontato = require('./linkscontato.json');
-const escoladefundamentos = require('./edf.json');
+const projetos = require('./main/projetos.json');
+const iniciosobre = require('./main/iniciosobre.json');
+const conteconosco = require('./main/conteprs.json');
+const linkscontato = require('./main/linkscontato.json');
+const escoladefundamentos = require('./main/edf.json');
 
 app.use(express.json());
 app.use(cors());
