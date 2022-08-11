@@ -23,7 +23,7 @@ app.get("/linkscontato", function(req, res) {
   res.json(linkscontato);
 })
 app.get("/escoladefundamentos", function(req, res) {
-  res.json(linkscontato);
+  res.json(escoladefundamentos);
 })
 
 app.listen(process.env.PORT || 3000, function(){
