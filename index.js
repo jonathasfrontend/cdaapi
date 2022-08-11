@@ -5,6 +5,7 @@ const projetos = require('./projetos.json');
 const iniciosobre = require('./iniciosobre.json');
 const conteconosco = require('./conteprs.json');
 const linkscontato = require('./linkscontato.json');
+const escoladefundamentos = require('./edf.json');
 
 app.use(express.json());
 app.use(cors());
