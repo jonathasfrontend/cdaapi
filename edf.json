@@ -9,10 +9,10 @@
         "Missao":{
             "title": "Missão",
             "text": "Estabelecer bases sólidas para o crescimento e desenvolvimento da Igreja de Jesus.",
-            "type-curso-1":"Curso presencial",
-            "type-curso-2":"Curso Online",
-            "inscricoes-open":"Inscrições abertas",
-            "inscricoes-close":"Inscrições Encerradas"
+            "type_curso_1":"Curso presencial",
+            "type_curso_2":"Curso Online",
+            "inscricoes_open":"Inscrições abertas",
+            "inscricoes_close":"Inscrições Encerradas"
         },
         
         "Desenvolvimento":"Aulas semanais (presencial e online).",
