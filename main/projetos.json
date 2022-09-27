@@ -12,7 +12,8 @@
     {
         "img":"../public/img/svgs/earth.svg",
         "title": "Escola de fundamentos",
-        "sobre": "Qual sua perspectiva para o futuro?"
+        "sobre": "Qual sua perspectiva para o futuro?",
+        "url": "/escoladefundamentos"
     },
     {
         "img":"../public/img/svgs/arrow.svg",
