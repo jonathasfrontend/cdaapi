@@ -6,6 +6,7 @@ const iniciosobre = require('./main/iniciosobre.json');
 const conteconosco = require('./main/conteprs.json');
 const linkscontato = require('./main/linkscontato.json');
 const escoladefundamentos = require('./main/edf.json');
+const edfmestres = require('./main/edfmestres.json');
 
 app.use(express.json());
 app.use(cors());
@@ -24,6 +25,9 @@ app.get("/linkscontato", function(req, res) {
 })
 app.get("/escoladefundamentos", function(req, res) {
   res.json(escoladefundamentos);
+})
+app.get("/edfmestres", function(req, res) {
+  res.json(edfmestres);
 })
 
 app.listen(process.env.PORT || 3000, function(){
