@@ -2,21 +2,21 @@
     {
         "nome": "Pr Nei Panucci",
         "denominacao": "CDA - Casa de Adoração",
-        "avatar": "url_img"
+        "avatar": "../public/img/new/nei.png"
     },
     {
         "nome": "Pr Rafael Lopes",
         "denominacao": "MEVAN - Missão America Latina",
-        "avatar": "url_img"
+        "avatar": "../public/img/new/rafa.png"
     },
     {
         "nome": "Pr Darlan",
         "denominacao": "MOB - Missão Mobilização",
-        "avatar": "url_img"
+        "avatar": "../public/img/new/darlan.jpeg"
     },
     {
         "nome": "Pr Joseph Oliveira",
         "denominacao": "MDG - Ministério das Gerações",
-        "avatar": "url_img"
+        "avatar": "../public/img/new/joseph.jpeg"
     }
 ]
