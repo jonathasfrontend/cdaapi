@@ -2,12 +2,14 @@
     {
         "img":"../public/img/svgs/home.svg",
         "title": "Projeto CASA",
-        "sobre": "Conheça o projeto CASA Centro Atendimento Social Assistencial um projeto que pode mudar sua vida."
+        "sobre": "Conheça o projeto CASA Centro Atendimento Social Assistencial um projeto que pode mudar sua vida.",
+        "url": ""
     },
     {
         "img":"../public/img/svgs/book.svg",
         "title": "IDG Imersion Discipleship Group",
-        "sobre": "Um tempo falando da palavra do senhor totalmente em Ingles."
+        "sobre": "Um tempo falando da palavra do senhor totalmente em Ingles.",
+        "url": ""
     },
     {
         "img":"../public/img/svgs/earth.svg",
@@ -18,21 +20,25 @@
     {
         "img":"../public/img/svgs/arrow.svg",
         "title": "Confraria",
-        "sobre": "Discipulado de homens, onde através dos princípios regidos pela palavra de Deus conversamos sobre hombridade. A função sacerdotal do homem, levando-o a entender seu papel em casa, na família e sociedade."
+        "sobre": "Discipulado de homens, onde através dos princípios regidos pela palavra de Deus conversamos sobre hombridade. A função sacerdotal do homem, levando-o a entender seu papel em casa, na família e sociedade.",
+        "url": ""
     },
     {
         "img":"../public/img/svgs/tools.svg",
         "title": "Mulheres em reforma",
-        "sobre": "Discipulado de Mulheres Trazer a coniencia das mulheres sua afiliação no reino e que somos filhas amadas do Pai, restaurar seus ministérios trazer e sua conciencia que uma complementa a outra e juntas somo mais forte."
+        "sobre": "Discipulado de Mulheres Trazer a coniencia das mulheres sua afiliação no reino e que somos filhas amadas do Pai, restaurar seus ministérios trazer e sua conciencia que uma complementa a outra e juntas somo mais forte.",
+        "url": ""
     },
     {
         "img":"../public/img/svgs/pray.svg",
         "title": "Adoração kids",
-        "sobre": "Ensinamos as crianças que o louvor é uma oferta a Deus, e ele recebe como expressão do seu amor por Ele. As crianças são capazes de adorar quando entendem o grande valor da sua adoração a Deus. Salmos 8: 2"
+        "sobre": "Ensinamos as crianças que o louvor é uma oferta a Deus, e ele recebe como expressão do seu amor por Ele. As crianças são capazes de adorar quando entendem o grande valor da sua adoração a Deus. Salmos 8: 2",
+        "url": ""
     },
     {
         "img":"../public/img/svgs/cross.svg",
         "title": "Geração cross",
-        "sobre": "Porque a palavra da cruz é loucura para os que perecem; mas para nós, que somos salvos, é o poder de Deus. 1 Coríntios 1:18"
+        "sobre": "Porque a palavra da cruz é loucura para os que perecem; mas para nós, que somos salvos, é o poder de Deus. 1 Coríntios 1:18",
+        "url": ""
     }
 ]
